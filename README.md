@@ -1,1 +1,1 @@
-Offensive Security Scripts I have written or currently working on
+Offensive Security Scripts I have written and/or currently working on.
